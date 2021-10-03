@@ -1,0 +1,1630 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1237; Version 2009; 64bit' Language: 'zh' Physical Memory: 16327 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Administrator/Desktop/Git hub/2D_game_test/2D_game_test
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59526
+Successfully changed project path to: C:/Users/Administrator/Desktop/Git hub/2D_game_test/2D_game_test
+C:/Users/Administrator/Desktop/Git hub/2D_game_test/2D_game_test
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Administrator/Desktop/Git hub/2D_game_test/2D_game_test/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001778 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.310 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1310ms)
+		BeginReloadAssembly (36ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (260ms)
+			LoadAssemblies (35ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (90ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (17ms)
+			SetupLoadedEditorAssemblies (109ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (29ms)
+				BeforeProcessingInitializeOnLoad (5ms)
+				ProcessInitializeOnLoadAttributes (52ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002116 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.687 seconds
+Domain Reload Profiling:
+	ReloadAssembly (687ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (554ms)
+			LoadAssemblies (59ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (172ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (221ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (29ms)
+				BeforeProcessingInitializeOnLoad (46ms)
+				ProcessInitializeOnLoadAttributes (129ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2532.
+Total: 2.345100 ms (FindLiveObjects: 0.160600 ms CreateObjectMapping: 0.049600 ms MarkObjects: 2.068900 ms  DeleteObjects: 0.065300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/場景/遊戲場景.unity
+  artifactKey: Guid(f0eecc1d704ccc047bdb94348c0507bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/遊戲場景.unity using Guid(f0eecc1d704ccc047bdb94348c0507bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b31125222d5e54bc2d970b68071863') in 0.014636 seconds 
+  Import took 0.019077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.908729 seconds.
+  path: Assets/場景/開始畫面.unity
+  artifactKey: Guid(d7ed48cdc4196b341a1604f531f9a1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/開始畫面.unity using Guid(d7ed48cdc4196b341a1604f531f9a1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861e998e3ed327cb72139a82f26cb4c3') in 0.005331 seconds 
+  Import took 0.007970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 635.463625 seconds.
+  path: Assets/地形/地形.prefab
+  artifactKey: Guid(61b18e01c2160514797bd7e39d960975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/地形/地形.prefab using Guid(61b18e01c2160514797bd7e39d960975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3cb743db4ed4da82f45c9c57d00a22d') in 0.067652 seconds 
+  Import took 0.070782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 612.125521 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken Row L.asset
+  artifactKey: Guid(465304fcf67144c41bb5369f0fbe24c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken Row L.asset using Guid(465304fcf67144c41bb5369f0fbe24c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58f90c148383a4088c0200c2518d10d') in 0.021014 seconds 
+  Import took 0.024126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken Row R.asset
+  artifactKey: Guid(77a1aa0e285f86e43a6da88f68bf0e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken Row R.asset using Guid(77a1aa0e285f86e43a6da88f68bf0e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662505930eefd8769785c69ea719a768') in 0.010286 seconds 
+  Import took 0.012950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken Row R 1.asset
+  artifactKey: Guid(cd80500504fa4dc4e80e0485ca3c96c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken Row R 1.asset using Guid(cd80500504fa4dc4e80e0485ca3c96c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de58d39efbce7d6e810ec6c5aece90b') in 0.009752 seconds 
+  Import took 0.012323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken TR.asset
+  artifactKey: Guid(fa9367c14f5d35e498728d64d8f47d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken TR.asset using Guid(fa9367c14f5d35e498728d64d8f47d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8302b638c2e344224141f519aeb41e') in 0.010678 seconds 
+  Import took 0.013567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken T.asset
+  artifactKey: Guid(5c9a9dda28edaf746a87979a0716ab19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken T.asset using Guid(5c9a9dda28edaf746a87979a0716ab19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744bb6e66bd33b8d5d177d8ab82831fb') in 0.007719 seconds 
+  Import took 0.010073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken Row M.asset
+  artifactKey: Guid(5b7754026f40456488b412108ad00e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken Row M.asset using Guid(5b7754026f40456488b412108ad00e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cfdc9fd0ccfa065427a54c7116c0d99') in 0.009616 seconds 
+  Import took 0.012021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/調色盤/地形.prefab
+  artifactKey: Guid(61b18e01c2160514797bd7e39d960975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/地形.prefab using Guid(61b18e01c2160514797bd7e39d960975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23673646b995a62906560e120baf6803') in 0.013471 seconds 
+  Import took 0.016129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken TL.asset
+  artifactKey: Guid(4063fbc413e440a4a8aed8138287ad13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken TL.asset using Guid(4063fbc413e440a4a8aed8138287ad13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f427cffa85390195c72afeb0117800d4') in 0.008228 seconds 
+  Import took 0.011028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000807 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken TL.asset
+  artifactKey: Guid(4063fbc413e440a4a8aed8138287ad13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken TL.asset using Guid(4063fbc413e440a4a8aed8138287ad13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f427cffa85390195c72afeb0117800d4') in 0.005302 seconds 
+  Import took 0.007971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.804464 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken L.asset
+  artifactKey: Guid(29d3e075ef94a754fb9acedf3d1b7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken L.asset using Guid(29d3e075ef94a754fb9acedf3d1b7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081e0bb707364fcbdffb44fc075de081') in 0.007936 seconds 
+  Import took 0.010865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken M.asset
+  artifactKey: Guid(e2988d23acf4295478b0d0f832392928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken M.asset using Guid(e2988d23acf4295478b0d0f832392928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42fe42f2371374f7b9992c7a120bed84') in 0.011350 seconds 
+  Import took 0.013795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.430772 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken C L.asset
+  artifactKey: Guid(656bfdc1fbabad143aff819f5b14a9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken C L.asset using Guid(656bfdc1fbabad143aff819f5b14a9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc36259f6801018a800f6b77344a2f6') in 0.007387 seconds 
+  Import took 0.010218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken C R.asset
+  artifactKey: Guid(ac902b4ef2ef5fd4da1380c6e5cb3e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken C R.asset using Guid(ac902b4ef2ef5fd4da1380c6e5cb3e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28481cd9f31ed2f9792bce664485e45b') in 0.008891 seconds 
+  Import took 0.012012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.473460 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken C BL.asset
+  artifactKey: Guid(85a08b2a983791b4e9afc3e040eae94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken C BL.asset using Guid(85a08b2a983791b4e9afc3e040eae94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e758410b7aea27229fcc5de19983ea') in 0.008946 seconds 
+  Import took 0.011613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken C BR.asset
+  artifactKey: Guid(0b6938c956df1bb4c8c56672e551d9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken C BR.asset using Guid(0b6938c956df1bb4c8c56672e551d9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a043a0a07921903ac772d7586acf6a69') in 0.008132 seconds 
+  Import took 0.010720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.649321 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken BR.asset
+  artifactKey: Guid(5ec00b44d18b6bb48af3d00349b657d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken BR.asset using Guid(5ec00b44d18b6bb48af3d00349b657d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d978f63e21686493e737bd3073245b') in 0.007257 seconds 
+  Import took 0.010252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken C B.asset
+  artifactKey: Guid(33dab0753b06b7a44b70810da19f8896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken C B.asset using Guid(33dab0753b06b7a44b70810da19f8896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db23991f2a56ead4594885e53fa7f85f') in 0.009830 seconds 
+  Import took 0.012198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090694 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken B.asset
+  artifactKey: Guid(ea6e5997366689e47b88e7ae8d969d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken B.asset using Guid(ea6e5997366689e47b88e7ae8d969d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbeb43e072f94e9e562aeede68f1c9ca') in 0.012980 seconds 
+  Import took 0.016002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken BL.asset
+  artifactKey: Guid(e6880807d84d96e4aab73aebf6c25307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken BL.asset using Guid(e6880807d84d96e4aab73aebf6c25307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbf049c8ac64b709039b8a142e16fe1') in 0.007400 seconds 
+  Import took 0.010011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.861825 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken Row L 1.asset
+  artifactKey: Guid(137eceb9800d17a4e81c61ed17450204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken Row L 1.asset using Guid(137eceb9800d17a4e81c61ed17450204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0de6a45b5fd939336de95e62189420') in 0.008103 seconds 
+  Import took 0.011128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken Row R 2.asset
+  artifactKey: Guid(b5d233637d151a146b8a06d2d8457d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken Row R 2.asset using Guid(b5d233637d151a146b8a06d2d8457d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd6fe266df9d2141841e437b7516bbe') in 0.008456 seconds 
+  Import took 0.012197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/調色盤/TX Tileset Ground Darken Row L 1.asset
+  artifactKey: Guid(137eceb9800d17a4e81c61ed17450204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/TX Tileset Ground Darken Row L 1.asset using Guid(137eceb9800d17a4e81c61ed17450204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0de6a45b5fd939336de95e62189420') in 0.005583 seconds 
+  Import took 0.008377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.982884 seconds.
+  path: Assets/調色盤/地形.prefab
+  artifactKey: Guid(61b18e01c2160514797bd7e39d960975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/地形.prefab using Guid(61b18e01c2160514797bd7e39d960975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f89377381b703779c23bb8736e349a') in 0.012083 seconds 
+  Import took 0.015150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 566.558249 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Col T.asset
+  artifactKey: Guid(55b43c087af44f64588378eb5f5304d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Col T.asset using Guid(55b43c087af44f64588378eb5f5304d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71edc725be23efc629161d5576a0c22') in 0.010247 seconds 
+  Import took 0.013331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.302628 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken L.asset
+  artifactKey: Guid(fdc8e2476ca7b07488d5c1819ad461dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken L.asset using Guid(fdc8e2476ca7b07488d5c1819ad461dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9162e4f38db519981d0f5dcc292bf54b') in 0.008403 seconds 
+  Import took 0.011313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.259246 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken M.asset
+  artifactKey: Guid(2d016263d32ddfd4daf46c0ddeeeaa2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken M.asset using Guid(2d016263d32ddfd4daf46c0ddeeeaa2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db0ea86eb2c22de3e54cfd428b8096f') in 0.005054 seconds 
+  Import took 0.008127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.415976 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken R.asset
+  artifactKey: Guid(a2482ba922cca67448818e25c7a26030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken R.asset using Guid(a2482ba922cca67448818e25c7a26030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c40446fdfa23a63b78e42d2bf1ec5ddd') in 0.009159 seconds 
+  Import took 0.012284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.603643 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Row L.asset
+  artifactKey: Guid(1f37ec1bd73d7344b8b72ec59262c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Row L.asset using Guid(1f37ec1bd73d7344b8b72ec59262c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a875dd315370a1d321f81e9bb5e1c59') in 0.005562 seconds 
+  Import took 0.008964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102808 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Row M.asset
+  artifactKey: Guid(3d362e8338b3811489ce6689782cde87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Row M.asset using Guid(3d362e8338b3811489ce6689782cde87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe28ae164b25e8b842565d69f10b73c') in 0.005921 seconds 
+  Import took 0.008769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.599085 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Row R.asset
+  artifactKey: Guid(78583234e7a00984788481c8927df2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Row R.asset using Guid(78583234e7a00984788481c8927df2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688efd9f871ee7768bb62db4cb03e493') in 0.004977 seconds 
+  Import took 0.007819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.280176 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken S.asset
+  artifactKey: Guid(1b5a4b556d5541d4391a4cdb597a8a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken S.asset using Guid(1b5a4b556d5541d4391a4cdb597a8a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bafb58cbd265129d9801387840912792') in 0.009330 seconds 
+  Import took 0.012234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.302019 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X1 L B.asset
+  artifactKey: Guid(c5cc3a278e8f83449a6d275c25b6ecd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X1 L B.asset using Guid(c5cc3a278e8f83449a6d275c25b6ecd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57179b7fc158a9952cb72e7d37f5c257') in 0.010080 seconds 
+  Import took 0.012940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031908 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X1 L T.asset
+  artifactKey: Guid(ee8ba4d11c1e64140b82b73847b08a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X1 L T.asset using Guid(ee8ba4d11c1e64140b82b73847b08a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b443efeb1122b8f6dee88b4dd1e552') in 0.009154 seconds 
+  Import took 0.012070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.268504 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X1 R B.asset
+  artifactKey: Guid(77f8a7c8975d48e4c882c5af70fb8259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X1 R B.asset using Guid(77f8a7c8975d48e4c882c5af70fb8259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008e6734247c6cd08d811ba09fa4c588') in 0.009080 seconds 
+  Import took 0.012242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.277143 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X1 R T.asset
+  artifactKey: Guid(01efbecf7f976bd4e843c7596abff477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X1 R T.asset using Guid(01efbecf7f976bd4e843c7596abff477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad5b960471f0eead346aa9227ac1485') in 0.011123 seconds 
+  Import took 0.015175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.287079 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 L 1.asset
+  artifactKey: Guid(a3ca319545d544b4c8a8934870557d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 L 1.asset using Guid(a3ca319545d544b4c8a8934870557d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '566c41d10506e1add5173091f91580bd') in 0.009089 seconds 
+  Import took 0.012271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.331933 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 L 2.asset
+  artifactKey: Guid(95648a3f21b5cea4284a0025a3eebd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 L 2.asset using Guid(95648a3f21b5cea4284a0025a3eebd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52416f81988719437ed646b774f406ac') in 0.008601 seconds 
+  Import took 0.011434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.317551 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 L 3.asset
+  artifactKey: Guid(cd69dadac56951c4cb33d79d0d99fbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 L 3.asset using Guid(cd69dadac56951c4cb33d79d0d99fbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef41a82cc298dbdb3e4fce067f82305b') in 0.010658 seconds 
+  Import took 0.014219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.712885 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 L 4.asset
+  artifactKey: Guid(740f99afb7ff35841a8bf440e275acd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 L 4.asset using Guid(740f99afb7ff35841a8bf440e275acd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c899ba9505b7a43a2fd75444c34c001') in 0.009395 seconds 
+  Import took 0.012227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085265 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 R 1.asset
+  artifactKey: Guid(2ca2bc04a3688dc4ab41ad06bfc2445b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 R 1.asset using Guid(2ca2bc04a3688dc4ab41ad06bfc2445b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b416de22e1bd6ff0c257b3091082ce4e') in 0.009276 seconds 
+  Import took 0.012145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.076386 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 R 2.asset
+  artifactKey: Guid(f1b197e49dd029848956b99cd39beffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 R 2.asset using Guid(f1b197e49dd029848956b99cd39beffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3b7d4c586c0fde445ac0b1714d095a') in 0.009943 seconds 
+  Import took 0.012736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.475516 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 R 3.asset
+  artifactKey: Guid(46194387393705e41b326eb989b3c125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 R 3.asset using Guid(46194387393705e41b326eb989b3c125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f39cf232b9cdc20ba5f17dd5636837') in 0.008893 seconds 
+  Import took 0.011853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.601225 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 R 4.asset
+  artifactKey: Guid(8bd0fa5ad4c00df44b3a21e5a40ead35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken Slope X2 R 4.asset using Guid(8bd0fa5ad4c00df44b3a21e5a40ead35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '558fda193ba19b85ae8d03a2742dbaa0') in 0.009132 seconds 
+  Import took 0.011857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.804397 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken T.asset
+  artifactKey: Guid(129b8d44277e04a4da2aaaef6c4fb58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken T.asset using Guid(129b8d44277e04a4da2aaaef6c4fb58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c3ae20a0e401f5f075cce2223cab1f') in 0.006511 seconds 
+  Import took 0.009258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.918485 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken TL.asset
+  artifactKey: Guid(986ccee9a7cef0d408ccc4216da61ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken TL.asset using Guid(986ccee9a7cef0d408ccc4216da61ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38c186193daacb392e3a85ba10d5a2f2') in 0.007034 seconds 
+  Import took 0.009743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.368786 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken TR.asset
+  artifactKey: Guid(1c7a21ca0aaa9b94282b12f5a5709695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Tileset Palette/TP Ground Darken/TX Tileset Ground Darken TR.asset using Guid(1c7a21ca0aaa9b94282b12f5a5709695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7eed88988c1656dfc8162c2902550e2') in 0.004662 seconds 
+  Import took 0.007500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 440.218847 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Tileset Ground Darken 1.png
+  artifactKey: Guid(1dd7f57dfd7dbc849a9c59cf97f5cee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Tileset Ground Darken 1.png using Guid(1dd7f57dfd7dbc849a9c59cf97f5cee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db83416cab568eab8013a808a724774') in 0.104078 seconds 
+  Import took 0.108014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002903 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Tileset Ground Darken 1.png
+  artifactKey: Guid(1dd7f57dfd7dbc849a9c59cf97f5cee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Tileset Ground Darken 1.png using Guid(1dd7f57dfd7dbc849a9c59cf97f5cee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db83416cab568eab8013a808a724774') in 0.086102 seconds 
+  Import took 0.089176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 843.039375 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180340ee9899a31c3c04cc073a49128d') in 0.014979 seconds 
+  Import took 0.018305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.293827 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a979e508f2a83bce8918d780a64a0e') in 0.009177 seconds 
+  Import took 0.011974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021835 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a979e508f2a83bce8918d780a64a0e') in 0.009664 seconds 
+  Import took 0.012524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.697190 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf9c6a7d9eedc1b74a4d6a9b42115aa') in 0.213543 seconds 
+  Import took 0.216910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1516.987936 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106fac3b6aaf2502550ddb80856aa0a9') in 0.165620 seconds 
+  Import took 0.169067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.489631 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c858e8912df1639a43a3b4eec921ba5') in 0.152640 seconds 
+  Import took 0.155794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.331329 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf1429490319b88f54d6be99e056d1a') in 0.158745 seconds 
+  Import took 0.163182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 607.407657 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f8bdc0cebf93b2369b504eab405da6') in 0.157384 seconds 
+  Import took 0.161243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.983474 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0b391d096f6ea95fde13043b7f7aee6') in 0.159627 seconds 
+  Import took 0.163105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.190514 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b88c8a53fd60364c5e38494882e04132') in 0.151369 seconds 
+  Import took 0.155102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.772973 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '924a36e272d592528308aa4cd828502d') in 0.158257 seconds 
+  Import took 0.161690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.707431 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd37928717bd7cf0eace841eb13661f08') in 0.162437 seconds 
+  Import took 0.165562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.841477 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46174e0e815edbb7a5c2c3f69f082dda') in 0.166066 seconds 
+  Import took 0.169750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.288441 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9536fe5b614aa759c12657fe94dda47') in 0.149043 seconds 
+  Import took 0.152919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.401429 seconds.
+  path: Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png
+  artifactKey: Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Platformer - Village Props/Texture/TX Village Props.png using Guid(7810966f0f690954c87305933cabf2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5164c37b5a1b2fd8c1553ea0f32829') in 0.151052 seconds 
+  Import took 0.155209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2886.093132 seconds.
+  path: Assets/Enemies/Snail
+  artifactKey: Guid(a8d54ebe36d8e6a4a93443d8c5b5707e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail using Guid(a8d54ebe36d8e6a4a93443d8c5b5707e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221720806f0e15c2cbbdb3fb28d0aae1') in 0.007405 seconds 
+  Import took 0.011337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.266596 seconds.
+  path: Assets/Enemies/Snail/Shell Top Hit (38x24).png
+  artifactKey: Guid(d4f96685b750513448f6d51fc0b2c14f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail/Shell Top Hit (38x24).png using Guid(d4f96685b750513448f6d51fc0b2c14f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '415d7c69565a811dbba4ee005ea8dd7c') in 0.019623 seconds 
+  Import took 0.022814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Enemies/Snail/Walk (38x24).png
+  artifactKey: Guid(e1280fda21071494494caaa7ba3cf7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail/Walk (38x24).png using Guid(e1280fda21071494494caaa7ba3cf7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4b21363cea3d42f592e6983285a0902') in 0.011010 seconds 
+  Import took 0.013682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Enemies/Snail/Snail without shell.png
+  artifactKey: Guid(00c083418f7cd184f9c6fd521c05b24f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail/Snail without shell.png using Guid(00c083418f7cd184f9c6fd521c05b24f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237cb4d9cd3994a9f2abb2628a80c67e') in 0.012278 seconds 
+  Import took 0.015155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Enemies/Snail/Walk (38x24).png
+  artifactKey: Guid(e1280fda21071494494caaa7ba3cf7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail/Walk (38x24).png using Guid(e1280fda21071494494caaa7ba3cf7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4b21363cea3d42f592e6983285a0902') in 0.007321 seconds 
+  Import took 0.009907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Enemies/Snail/Shell Wall Hit (38x24).png
+  artifactKey: Guid(7ca39011176e3c54597fd79af329af17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail/Shell Wall Hit (38x24).png using Guid(7ca39011176e3c54597fd79af329af17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd80aad45e23a038015da3ff08b4090c1') in 0.010662 seconds 
+  Import took 0.013880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.053819 seconds.
+  path: Assets/Enemies/Snail/Shell Idle (38x24).png
+  artifactKey: Guid(b07a2bfdac449774baef8e131d6aa6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail/Shell Idle (38x24).png using Guid(b07a2bfdac449774baef8e131d6aa6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44ef70b1d94aa3aaecca90a9125371d') in 0.010519 seconds 
+  Import took 0.013812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.386667 seconds.
+  path: Assets/Enemies/Chameleon/Attack (84x38).png
+  artifactKey: Guid(1fa5b96141ad0394393b02ece73ea491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Chameleon/Attack (84x38).png using Guid(1fa5b96141ad0394393b02ece73ea491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224359569a36819f855f88f0f15ff30f') in 0.010602 seconds 
+  Import took 0.013615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Enemies/Chameleon/Hit (84x38).png
+  artifactKey: Guid(a90268350af4f4a47852e17d99791966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Chameleon/Hit (84x38).png using Guid(a90268350af4f4a47852e17d99791966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81ead7f1f995d9618d6ead1a0339d8c') in 0.017374 seconds 
+  Import took 0.020033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Enemies/Chameleon/Idle (84x38).png
+  artifactKey: Guid(a517dbac0f279a944bd060b1bc919196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Chameleon/Idle (84x38).png using Guid(a517dbac0f279a944bd060b1bc919196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bcb180adb751668a37c7387134fd979') in 0.010672 seconds 
+  Import took 0.013283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Enemies/Chameleon/Run (84x38).png
+  artifactKey: Guid(8842f6e55092d06438ec8e752e25670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Chameleon/Run (84x38).png using Guid(8842f6e55092d06438ec8e752e25670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cafa5671314a580db9d617c740684626') in 0.017379 seconds 
+  Import took 0.020158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.788302 seconds.
+  path: Assets/Enemies/Chicken/Hit (32x34).png
+  artifactKey: Guid(3318fc34fd4772f408a05fff2c0122dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Chicken/Hit (32x34).png using Guid(3318fc34fd4772f408a05fff2c0122dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51335894cab4367415eb0757a41d1a2') in 0.012538 seconds 
+  Import took 0.015372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Enemies/Chicken/Idle (32x34).png
+  artifactKey: Guid(458cbd82f22610c45b70010b322fab07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Chicken/Idle (32x34).png using Guid(458cbd82f22610c45b70010b322fab07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '167560a0b00eb28df6de070bf8ee0d49') in 0.011204 seconds 
+  Import took 0.013917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Enemies/Chicken/Run (32x34).png
+  artifactKey: Guid(e9c3cfdb3d1ae0545b60299efe3d2813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Chicken/Run (32x34).png using Guid(e9c3cfdb3d1ae0545b60299efe3d2813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '933bd5a059b03c7efcd1533bc1cd9635') in 0.009666 seconds 
+  Import took 0.012853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.853398 seconds.
+  path: Assets/Enemies/Duck/Fall (36x36).png
+  artifactKey: Guid(3ae9215f7249e624891c8c7144fac4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Duck/Fall (36x36).png using Guid(3ae9215f7249e624891c8c7144fac4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8255781d5f73d39925079508646c97c4') in 0.011678 seconds 
+  Import took 0.015176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Enemies/Duck/Idle (36x36).png
+  artifactKey: Guid(05ea3c23896ef224eaa177c0bb498015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Duck/Idle (36x36).png using Guid(05ea3c23896ef224eaa177c0bb498015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4331fe0b99b2988653945f37a863d81') in 0.009951 seconds 
+  Import took 0.013028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Enemies/Duck/Hit (36x36).png
+  artifactKey: Guid(34e401bbbb04f2e46952fe89813fc49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Duck/Hit (36x36).png using Guid(34e401bbbb04f2e46952fe89813fc49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297def10af24131c0855514ba06192b8') in 0.011468 seconds 
+  Import took 0.014359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Enemies/Duck/Jump (36x36).png
+  artifactKey: Guid(ab55ed634d598ce4d8c60e25b1e7acb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Duck/Jump (36x36).png using Guid(ab55ed634d598ce4d8c60e25b1e7acb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0099b9fd96fc5898c187b082dd4c8ac') in 0.009287 seconds 
+  Import took 0.011942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Enemies/Duck/Hit (36x36).png
+  artifactKey: Guid(34e401bbbb04f2e46952fe89813fc49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Duck/Hit (36x36).png using Guid(34e401bbbb04f2e46952fe89813fc49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297def10af24131c0855514ba06192b8') in 0.009155 seconds 
+  Import took 0.011754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Enemies/Duck/Jump Anticipation (36x36).png
+  artifactKey: Guid(3c7d6fe0081bb4f46b8b071bbbb3a087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Duck/Jump Anticipation (36x36).png using Guid(3c7d6fe0081bb4f46b8b071bbbb3a087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5e2ee4caae33f2facfb0c8e4af36c7f') in 0.010317 seconds 
+  Import took 0.013019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.023358 seconds.
+  path: Assets/Enemies/FatBird/Fall (40x48).png
+  artifactKey: Guid(ab89d4f1956c28c40b7fe342cc96fc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/FatBird/Fall (40x48).png using Guid(ab89d4f1956c28c40b7fe342cc96fc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ad48d123275771582160ddac48d302') in 0.011634 seconds 
+  Import took 0.014469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Enemies/FatBird/Ground (40x48).png
+  artifactKey: Guid(ad4e3ab8b53a9f04a92b502628066bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/FatBird/Ground (40x48).png using Guid(ad4e3ab8b53a9f04a92b502628066bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6faa616b37720688dda13e19d6e62b64') in 0.011651 seconds 
+  Import took 0.014207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Enemies/FatBird/Hit (40x48).png
+  artifactKey: Guid(fcb43a1983b1381488847175d9405f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/FatBird/Hit (40x48).png using Guid(fcb43a1983b1381488847175d9405f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914ecce0d52b4f276b96b06a59f8b53f') in 0.010403 seconds 
+  Import took 0.012865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Enemies/FatBird/Idle (40x48).png
+  artifactKey: Guid(aa7ba9013f924ad459dd067121f61e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/FatBird/Idle (40x48).png using Guid(aa7ba9013f924ad459dd067121f61e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02fab6ceebf5c4c0e77d81f258c70851') in 0.010109 seconds 
+  Import took 0.013291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.641187 seconds.
+  path: Assets/Enemies/Ghost/Appear (44x30).png
+  artifactKey: Guid(5fe6c831a3994ac42a94cc3e7a3e3db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Appear (44x30).png using Guid(5fe6c831a3994ac42a94cc3e7a3e3db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09b7e93da398b67f3feb9d3181ca3b9') in 0.011980 seconds 
+  Import took 0.014842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Desappear (44x30).png using Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4499d526e93b77a44e990edf1eea1abc') in 0.009703 seconds 
+  Import took 0.012401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(d1fa396eed9bcf142a7ca29b2e80487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Idle (44x30).png using Guid(d1fa396eed9bcf142a7ca29b2e80487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a129609899b0589ca25218b83341f4f4') in 0.011650 seconds 
+  Import took 0.014579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Enemies/Ghost/Gost Particles (48x16).png
+  artifactKey: Guid(40dbf0041a2deee4daa7be7acf8a9b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Gost Particles (48x16).png using Guid(40dbf0041a2deee4daa7be7acf8a9b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8c6de9cc7f91f8a6ccc7d20b9a8e7e') in 0.009264 seconds 
+  Import took 0.011903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(494e128faad97244ab81ff6e4b168e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Hit (44x30).png using Guid(494e128faad97244ab81ff6e4b168e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e8519107340468f9a9e2bcc8f9e824') in 0.012341 seconds 
+  Import took 0.015051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.561977 seconds.
+  path: Assets/Enemies/Mushroom/Hit.png
+  artifactKey: Guid(73393765fec99864c9f2c3e779ffc928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Mushroom/Hit.png using Guid(73393765fec99864c9f2c3e779ffc928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4260fa5b3bc553010fe47ded9d7f29a8') in 0.010994 seconds 
+  Import took 0.013912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Enemies/Mushroom/Idle (32x32).png
+  artifactKey: Guid(87c24cecfef7f1a48a5a718e64819f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Mushroom/Idle (32x32).png using Guid(87c24cecfef7f1a48a5a718e64819f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b95403804f32b9e2288fb83baa6c65e') in 0.010896 seconds 
+  Import took 0.013552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Enemies/Mushroom/Run (32x32).png
+  artifactKey: Guid(a66efb13d63be724f970b8fad739ad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Mushroom/Run (32x32).png using Guid(a66efb13d63be724f970b8fad739ad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9ceec28d5d9734257187f7d4f54c83') in 0.017691 seconds 
+  Import took 0.020216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.887756 seconds.
+  path: Assets/Enemies/Plant/Attack (44x42).png
+  artifactKey: Guid(30db7100e9b11e647979ebf4f02780d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Plant/Attack (44x42).png using Guid(30db7100e9b11e647979ebf4f02780d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '933f095f69fed425f416b2afd57a17a8') in 0.010973 seconds 
+  Import took 0.013797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Enemies/Plant/Bullet.png
+  artifactKey: Guid(a9decebbbda9afd4c920f30894a73d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Plant/Bullet.png using Guid(a9decebbbda9afd4c920f30894a73d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea9094043f38042c5e64e83a265dc6b8') in 0.010177 seconds 
+  Import took 0.012858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Enemies/Plant/Idle (44x42).png
+  artifactKey: Guid(7050eecabef99904e80cb786c2820ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Plant/Idle (44x42).png using Guid(7050eecabef99904e80cb786c2820ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6aa2ce92b1ce251a21904a7a593e2e') in 0.011869 seconds 
+  Import took 0.014726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Enemies/Plant/Bullet Pieces.png
+  artifactKey: Guid(7e41c277253b1af4d98361f731f019e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Plant/Bullet Pieces.png using Guid(7e41c277253b1af4d98361f731f019e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d996f5f5ec566fcc276989a796fb861') in 0.010452 seconds 
+  Import took 0.013361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Enemies/Plant/Hit (44x42).png
+  artifactKey: Guid(41671c6c6e8306b48a4c7083891ad366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Plant/Hit (44x42).png using Guid(41671c6c6e8306b48a4c7083891ad366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a9b1cd1b4f5f8b181ddf0d45252d67') in 0.011986 seconds 
+  Import took 0.015449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Enemies/Plant/Bullet Pieces.png
+  artifactKey: Guid(7e41c277253b1af4d98361f731f019e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Plant/Bullet Pieces.png using Guid(7e41c277253b1af4d98361f731f019e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d996f5f5ec566fcc276989a796fb861') in 0.009073 seconds 
+  Import took 0.012193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Enemies/Plant/Hit (44x42).png
+  artifactKey: Guid(41671c6c6e8306b48a4c7083891ad366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Plant/Hit (44x42).png using Guid(41671c6c6e8306b48a4c7083891ad366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a9b1cd1b4f5f8b181ddf0d45252d67') in 0.006131 seconds 
+  Import took 0.008404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.195848 seconds.
+  path: Assets/Enemies/Rino/Hit (52x34).png
+  artifactKey: Guid(b4b3bb8a6b5971c4f87315926855f483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rino/Hit (52x34).png using Guid(b4b3bb8a6b5971c4f87315926855f483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888c3921e6ad389fcae680797c6f8d80') in 0.010508 seconds 
+  Import took 0.013525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Enemies/Rino/Hit Wall (52x34).png
+  artifactKey: Guid(6c9a7c981c5df7640a31a36a9d53782c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rino/Hit Wall (52x34).png using Guid(6c9a7c981c5df7640a31a36a9d53782c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25ecfd990e56eff5548ae09aec812bfd') in 0.010283 seconds 
+  Import took 0.012791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Enemies/Rino/Idle (52x34).png
+  artifactKey: Guid(b81bcfd4e2d0a38419700af0f2df80b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rino/Idle (52x34).png using Guid(b81bcfd4e2d0a38419700af0f2df80b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ffeea186baf9d2231a582249110656') in 0.011135 seconds 
+  Import took 0.014005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Enemies/Rino/Run (52x34).png
+  artifactKey: Guid(9275411ce469a1d4f8d66d433cca251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rino/Run (52x34).png using Guid(9275411ce469a1d4f8d66d433cca251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7b6d16a87f52da5006496050bb0df4') in 0.011663 seconds 
+  Import took 0.014453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Enemies/Rino/Idle (52x34).png
+  artifactKey: Guid(b81bcfd4e2d0a38419700af0f2df80b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rino/Idle (52x34).png using Guid(b81bcfd4e2d0a38419700af0f2df80b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ffeea186baf9d2231a582249110656') in 0.005884 seconds 
+  Import took 0.008367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Enemies/Rino/Run (52x34).png
+  artifactKey: Guid(9275411ce469a1d4f8d66d433cca251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rino/Run (52x34).png using Guid(9275411ce469a1d4f8d66d433cca251c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7b6d16a87f52da5006496050bb0df4') in 0.005764 seconds 
+  Import took 0.008207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.328144 seconds.
+  path: Assets/Enemies/Slime/Hit (44x30).png
+  artifactKey: Guid(094903ea7d6d17045b67311bb1485de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Slime/Hit (44x30).png using Guid(094903ea7d6d17045b67311bb1485de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '343b4f5f90abd05d6500521f574f78b5') in 0.066899 seconds 
+  Import took 0.069903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Enemies/Slime/Particles (62x16).png
+  artifactKey: Guid(372363c1ef4cfb84e90706e9ffa0a442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Slime/Particles (62x16).png using Guid(372363c1ef4cfb84e90706e9ffa0a442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5318359a173ef86f47acac67e637cc0d') in 0.031172 seconds 
+  Import took 0.033976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Enemies/Slime/Idle-Run (44x30).png
+  artifactKey: Guid(cbf1a40e38e1ed84dab86c6ba96ae62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Slime/Idle-Run (44x30).png using Guid(cbf1a40e38e1ed84dab86c6ba96ae62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd401d2cf59c0eb9858fa1c53bc59c4e1') in 0.024405 seconds 
+  Import took 0.027079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.788335 seconds.
+  path: Assets/Enemies/Snail/Hit (38x24).png
+  artifactKey: Guid(a45b112abd9d71a4987d3770c41e009f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail/Hit (38x24).png using Guid(a45b112abd9d71a4987d3770c41e009f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed3c918727c92e024f8fab148c63e38') in 0.009588 seconds 
+  Import took 0.012713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Enemies/Snail/Idle (38x24).png
+  artifactKey: Guid(7c30c1ca3f7eedf4e8e12684f4972a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Snail/Idle (38x24).png using Guid(7c30c1ca3f7eedf4e8e12684f4972a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7041d5c696fc3096f682e49020adb2b') in 0.010126 seconds 
+  Import took 0.012809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.095133 seconds.
+  path: Assets/Enemies/Bunny/Fall.png
+  artifactKey: Guid(43263cbdbe0f26e4db66aff287bc4605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bunny/Fall.png using Guid(43263cbdbe0f26e4db66aff287bc4605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7105f9ee4ea547510e900e74f6c2cd') in 0.010237 seconds 
+  Import took 0.013265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Enemies/Bunny/Hit (34x44).png
+  artifactKey: Guid(868e0259d06393d4fa7dd22a437f3bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bunny/Hit (34x44).png using Guid(868e0259d06393d4fa7dd22a437f3bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899e0cf554c67c1173ac40534b89f179') in 0.010339 seconds 
+  Import took 0.012953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Enemies/Bunny/Idle (34x44).png
+  artifactKey: Guid(76175e41cb894b14c9c59df591f9c015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bunny/Idle (34x44).png using Guid(76175e41cb894b14c9c59df591f9c015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '774d3cea468c65376a71ef6ab4037d5d') in 0.009836 seconds 
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Enemies/Bunny/Jump.png
+  artifactKey: Guid(e75492761ce99204981d9d146a773f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bunny/Jump.png using Guid(e75492761ce99204981d9d146a773f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6394c2d498cf998bd03034ae1a7bc2ba') in 0.008980 seconds 
+  Import took 0.011684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Enemies/Bunny/Run (34x44).png
+  artifactKey: Guid(c44f96452ce67eb40bf16d9a75ce40b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bunny/Run (34x44).png using Guid(c44f96452ce67eb40bf16d9a75ce40b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbce61dc915f9a58347bc62b212ff55') in 0.010218 seconds 
+  Import took 0.013088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000889 seconds.
+  path: Assets/Enemies/Bunny/Run (34x44).png
+  artifactKey: Guid(c44f96452ce67eb40bf16d9a75ce40b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bunny/Run (34x44).png using Guid(c44f96452ce67eb40bf16d9a75ce40b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbce61dc915f9a58347bc62b212ff55') in 0.006368 seconds 
+  Import took 0.008881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.708719 seconds.
+  path: Assets/Enemies/BlueBird/Flying (32x32).png
+  artifactKey: Guid(249e1d996d47a1e45a48c5e5d1c30736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/BlueBird/Flying (32x32).png using Guid(249e1d996d47a1e45a48c5e5d1c30736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb82dcd09389d9abbc1b39a9a2bdcee') in 0.009546 seconds 
+  Import took 0.012501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Enemies/BlueBird/Hit (32x32).png
+  artifactKey: Guid(2cd074d256e3b7342be1c147c7f7bfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/BlueBird/Hit (32x32).png using Guid(2cd074d256e3b7342be1c147c7f7bfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2192312b5b314469c5957d4d0d393e') in 0.009623 seconds 
+  Import took 0.012216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.871049 seconds.
+  path: Assets/Enemies/Bee/Attack (36x34).png
+  artifactKey: Guid(bd6c6aded8d716a428be75b48e8c6107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bee/Attack (36x34).png using Guid(bd6c6aded8d716a428be75b48e8c6107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb4013b15b6bd30de0601c6182ba81e') in 0.009354 seconds 
+  Import took 0.012147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Enemies/Bee/Hit (36x34).png
+  artifactKey: Guid(f8248b0796d51d04fbe146930f33d642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bee/Hit (36x34).png using Guid(f8248b0796d51d04fbe146930f33d642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5a870316f7612627daffab7c3afa58') in 0.013118 seconds 
+  Import took 0.015691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Enemies/Bee/Bullet.png
+  artifactKey: Guid(36c5df3f3611e014eb1ad72f704e5db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bee/Bullet.png using Guid(36c5df3f3611e014eb1ad72f704e5db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5cf15de323c9e852f7c00593eb70bee') in 0.010813 seconds 
+  Import took 0.013797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Enemies/Bee/Bullet Pieces.png
+  artifactKey: Guid(d3b57c49f2c301d48addefa3b41f7e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bee/Bullet Pieces.png using Guid(d3b57c49f2c301d48addefa3b41f7e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c29e41623a671a20aa8d88bc2f5f3fe') in 0.011500 seconds 
+  Import took 0.014274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Enemies/Bee/Idle (36x34).png
+  artifactKey: Guid(df170c63343b4204da18df3e87a392d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bee/Idle (36x34).png using Guid(df170c63343b4204da18df3e87a392d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d050790e217ffaf964afad8d45c0a5') in 0.010747 seconds 
+  Import took 0.014182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000789 seconds.
+  path: Assets/Enemies/Bee/Idle (36x34).png
+  artifactKey: Guid(df170c63343b4204da18df3e87a392d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bee/Idle (36x34).png using Guid(df170c63343b4204da18df3e87a392d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d050790e217ffaf964afad8d45c0a5') in 0.010870 seconds 
+  Import took 0.013563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.874815 seconds.
+  path: Assets/Enemies/Bat/Ceiling In (46x30).png
+  artifactKey: Guid(258fb8c63643b304f88dfe61169a9c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bat/Ceiling In (46x30).png using Guid(258fb8c63643b304f88dfe61169a9c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f40e98c574bb434c7720fc18c53a6a1') in 0.010164 seconds 
+  Import took 0.013090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Enemies/Bat/Hit (46x30).png
+  artifactKey: Guid(d2d286f56cd91f0459b27a0360013a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bat/Hit (46x30).png using Guid(d2d286f56cd91f0459b27a0360013a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14613ccbee439d5ad5e065f9bdf5b970') in 0.010729 seconds 
+  Import took 0.013394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Enemies/Bat/Flying (46x30).png
+  artifactKey: Guid(733625fd30b5bc9499bf33716bf5db8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bat/Flying (46x30).png using Guid(733625fd30b5bc9499bf33716bf5db8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b9f2f6649c062332114fb513de64f9d') in 0.009500 seconds 
+  Import took 0.012191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Enemies/Bat/Ceiling Out (46x30).png
+  artifactKey: Guid(c0f5a6025369bf540b7a9efcabe13465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bat/Ceiling Out (46x30).png using Guid(c0f5a6025369bf540b7a9efcabe13465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d2b3f5b29b2ac589dd7f5d42104253') in 0.009761 seconds 
+  Import took 0.012202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Enemies/Bat/Idle (46x30).png
+  artifactKey: Guid(eba2e3f822e8e2d4793551035fc13d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Bat/Idle (46x30).png using Guid(eba2e3f822e8e2d4793551035fc13d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1573a17ecc2556e089ff6173992d1a2d') in 0.009322 seconds 
+  Import took 0.011931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.632348 seconds.
+  path: Assets/Enemies/Radish/Hit (30x38).png
+  artifactKey: Guid(a7e69af21c29ba0439608158a8e00910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Radish/Hit (30x38).png using Guid(a7e69af21c29ba0439608158a8e00910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15fc2dee2d462f30cd9c5978a4f14a64') in 0.013142 seconds 
+  Import took 0.016221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Enemies/Radish/Run (30x38).png
+  artifactKey: Guid(efeafd93501f3bd41840099ea1835740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Radish/Run (30x38).png using Guid(efeafd93501f3bd41840099ea1835740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d8cb5d193359b48422470a83f4026f') in 0.010771 seconds 
+  Import took 0.013300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Enemies/Radish/Idle 1 (30x38).png
+  artifactKey: Guid(627fab82865e1a14f8482e22831be61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Radish/Idle 1 (30x38).png using Guid(627fab82865e1a14f8482e22831be61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303cb02f996e8e833cc7bfdae50ec2cc') in 0.009994 seconds 
+  Import took 0.012538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Enemies/Radish/Leafs.png
+  artifactKey: Guid(f2f65eb3e72727147b753808b88d75bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Radish/Leafs.png using Guid(f2f65eb3e72727147b753808b88d75bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ae71706373dc5bb4fac8003f5e0f5e') in 0.010243 seconds 
+  Import took 0.012976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Enemies/Radish/Idle 2 (30x38).png
+  artifactKey: Guid(346d4b38e355ed54cb214a6ca3d4fbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Radish/Idle 2 (30x38).png using Guid(346d4b38e355ed54cb214a6ca3d4fbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9113d478efed102099c77ca521ad72d') in 0.010191 seconds 
+  Import took 0.012817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.099230 seconds.
+  path: Assets/Enemies/Rocks/Rock1_Hit.png
+  artifactKey: Guid(d3a38daf74eea994c8887be874fd170e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rocks/Rock1_Hit.png using Guid(d3a38daf74eea994c8887be874fd170e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae349d0da0bc385521969375967671e') in 0.009795 seconds 
+  Import took 0.012690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Enemies/Rocks/Rock1_Idle (38x34).png
+  artifactKey: Guid(2b736d3dcdd0e1b4893a5e8b88cf1edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rocks/Rock1_Idle (38x34).png using Guid(2b736d3dcdd0e1b4893a5e8b88cf1edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63a0293c22b69fc818a734dd6b362c9') in 0.009444 seconds 
+  Import took 0.011914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Enemies/Rocks/Rock2_Hit (32x28).png
+  artifactKey: Guid(32d18ab9837dcd84998f4d08ea425f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rocks/Rock2_Hit (32x28).png using Guid(32d18ab9837dcd84998f4d08ea425f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02e1ae5081091b55518b2f115565fad') in 0.009660 seconds 
+  Import took 0.012427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Enemies/Rocks/Rock2_Idle (32x28).png
+  artifactKey: Guid(ba30ccc403c12a44bb4fe4eb6a8ac4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rocks/Rock2_Idle (32x28).png using Guid(ba30ccc403c12a44bb4fe4eb6a8ac4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b65e443d56e8683496b3675461d83f') in 0.010434 seconds 
+  Import took 0.013126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Enemies/Rocks/Rock1_Run (38x34).png
+  artifactKey: Guid(8b32d08588857714da0153bcdc6c1865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rocks/Rock1_Run (38x34).png using Guid(8b32d08588857714da0153bcdc6c1865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296f5a1972d1a487e44ed1ff941b5b00') in 0.010973 seconds 
+  Import took 0.013736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Enemies/Rocks/Rock2_Run (32x28).png
+  artifactKey: Guid(b74607e57110f774baf608d3a90729d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Rocks/Rock2_Run (32x28).png using Guid(b74607e57110f774baf608d3a90729d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e689bca07782dcc6b56774d4e27d6e') in 0.010164 seconds 
+  Import took 0.012872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.266042 seconds.
+  path: Assets/Enemies/Skull/Hit (52x54).png
+  artifactKey: Guid(5d3afacb455871244948086a148f663c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Skull/Hit (52x54).png using Guid(5d3afacb455871244948086a148f663c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c01053bd80d896e459fff3904a7c38') in 0.009890 seconds 
+  Import took 0.012926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Enemies/Skull/Hit Wall 1 (52x54).png
+  artifactKey: Guid(29eed1dd6d38a544caf16c66f6969ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Skull/Hit Wall 1 (52x54).png using Guid(29eed1dd6d38a544caf16c66f6969ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3643d72f2c15cf68199473549dba95af') in 0.010870 seconds 
+  Import took 0.013663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Enemies/Skull/Hit Wall 2 (52x54).png
+  artifactKey: Guid(30f8c69c272aeb94eabf56ff146639ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Skull/Hit Wall 2 (52x54).png using Guid(30f8c69c272aeb94eabf56ff146639ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a35c0a8376e632ca757e8e91c867f74') in 0.009803 seconds 
+  Import took 0.012370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Enemies/Skull/Idle 2 (52x54).png
+  artifactKey: Guid(e4869193ce5832746b1e5c8db4bf04dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Skull/Idle 2 (52x54).png using Guid(e4869193ce5832746b1e5c8db4bf04dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46453c69e36730ea8b42f99d18375e11') in 0.011074 seconds 
+  Import took 0.013374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Enemies/Skull/Idle 1 (52x54).png
+  artifactKey: Guid(f702dcb1b88c6d545873a46a1363aac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Skull/Idle 1 (52x54).png using Guid(f702dcb1b88c6d545873a46a1363aac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441fe901694f44f7b878c1549e9d8ba8') in 0.011207 seconds 
+  Import took 0.014301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Enemies/Skull/Orange Particle.png
+  artifactKey: Guid(74669594f91a74a4dabeafab63f18f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Skull/Orange Particle.png using Guid(74669594f91a74a4dabeafab63f18f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e613883d8adba9a2741d8cd8d2a2062') in 0.013872 seconds 
+  Import took 0.017526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Enemies/Skull/Idle 1 (52x54).png
+  artifactKey: Guid(f702dcb1b88c6d545873a46a1363aac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Skull/Idle 1 (52x54).png using Guid(f702dcb1b88c6d545873a46a1363aac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441fe901694f44f7b878c1549e9d8ba8') in 0.006313 seconds 
+  Import took 0.008752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.250120 seconds.
+  path: Assets/Enemies/Turtle/Hit (44x26).png
+  artifactKey: Guid(b7ca2d4ee5725774b8831eec574efdbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Hit (44x26).png using Guid(b7ca2d4ee5725774b8831eec574efdbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d5eeadac52403970f68388f4286760') in 0.009616 seconds 
+  Import took 0.012759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Enemies/Turtle/Idle 2 (44x26).png
+  artifactKey: Guid(4fa6460098001e34caf9f124a6765f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Idle 2 (44x26).png using Guid(4fa6460098001e34caf9f124a6765f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25c10123b149f48587e8ec4a63f70c2') in 0.010634 seconds 
+  Import took 0.013322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Enemies/Turtle/Idle 1 (44x26).png
+  artifactKey: Guid(d1e88c9990185a84e8896f7fab918380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Idle 1 (44x26).png using Guid(d1e88c9990185a84e8896f7fab918380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6de6c78559e59b1374335bc941c49af') in 0.009116 seconds 
+  Import took 0.011712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Enemies/Turtle/Spikes in (44x26).png
+  artifactKey: Guid(82ff66d478e2f30449c560a008df1406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Spikes in (44x26).png using Guid(82ff66d478e2f30449c560a008df1406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd87b089d4122cc9761cea04267767fad') in 0.009842 seconds 
+  Import took 0.012855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Enemies/Turtle/Spikes out (44x26).png
+  artifactKey: Guid(380588911ebbbab4d91361ac3034ef7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Turtle/Spikes out (44x26).png using Guid(380588911ebbbab4d91361ac3034ef7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa5ccc6f601148da6a3f8a9f51f0583') in 0.009737 seconds 
+  Import took 0.012404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.725085 seconds.
+  path: Assets/Enemies/Trunk/Attack (64x32).png
+  artifactKey: Guid(b3b36c9756fce1640b556ead7d3976e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Trunk/Attack (64x32).png using Guid(b3b36c9756fce1640b556ead7d3976e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b09e2b456db7106934c8d89bc3c927a') in 0.009778 seconds 
+  Import took 0.012586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Enemies/Trunk/Hit (64x32).png
+  artifactKey: Guid(5b423d980e373cd41a95abbb8c3659b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Trunk/Hit (64x32).png using Guid(5b423d980e373cd41a95abbb8c3659b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71244ab662fcaa6f630d3b45425e3a33') in 0.008939 seconds 
+  Import took 0.011340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Enemies/Trunk/Run (64x32).png
+  artifactKey: Guid(b5f596f861b60794c83aee8a580b250c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Trunk/Run (64x32).png using Guid(b5f596f861b60794c83aee8a580b250c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a99f9e55689fc330016b0ef2b30ab60') in 0.011531 seconds 
+  Import took 0.014220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Enemies/Trunk/Bullet.png
+  artifactKey: Guid(d00d995668263ed4fb79998e557a0563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Trunk/Bullet.png using Guid(d00d995668263ed4fb79998e557a0563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e8a2d947dcdb0984e405c62f28c99d') in 0.008482 seconds 
+  Import took 0.011198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Enemies/Trunk/Bullet Pieces.png
+  artifactKey: Guid(3797aeeeca1faf14e9b0b5350f41e70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Trunk/Bullet Pieces.png using Guid(3797aeeeca1faf14e9b0b5350f41e70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34da250acaef9c4d200fe0ac349b69c0') in 0.008682 seconds 
+  Import took 0.011413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Enemies/Trunk/Idle (64x32).png
+  artifactKey: Guid(e1f724716da186a4ba6cf0d63ef0ac6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Trunk/Idle (64x32).png using Guid(e1f724716da186a4ba6cf0d63ef0ac6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c051bf14d7377d9507947463890279') in 0.010594 seconds 
+  Import took 0.013391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Enemies/Trunk/Bullet Pieces.png
+  artifactKey: Guid(3797aeeeca1faf14e9b0b5350f41e70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Trunk/Bullet Pieces.png using Guid(3797aeeeca1faf14e9b0b5350f41e70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34da250acaef9c4d200fe0ac349b69c0') in 0.006524 seconds 
+  Import took 0.009432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Enemies/Trunk/Idle (64x32).png
+  artifactKey: Guid(e1f724716da186a4ba6cf0d63ef0ac6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Trunk/Idle (64x32).png using Guid(e1f724716da186a4ba6cf0d63ef0ac6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c051bf14d7377d9507947463890279') in 0.006170 seconds 
+  Import took 0.008956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.336577 seconds.
+  path: Assets/Enemies/Ghost/Appear (44x30).png
+  artifactKey: Guid(5fe6c831a3994ac42a94cc3e7a3e3db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Appear (44x30).png using Guid(5fe6c831a3994ac42a94cc3e7a3e3db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc02d4e8011d766043f28afa8fcab15') in 0.010934 seconds 
+  Import took 0.014292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.272054 seconds.
+  path: Assets/Enemies/Ghost/Appear (44x30).png
+  artifactKey: Guid(5fe6c831a3994ac42a94cc3e7a3e3db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Appear (44x30).png using Guid(5fe6c831a3994ac42a94cc3e7a3e3db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a462cb20cbd6be0ea1a757d15245dab6') in 0.015987 seconds 
+  Import took 0.019696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.635413 seconds.
+  path: Assets/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(d1fa396eed9bcf142a7ca29b2e80487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Idle (44x30).png using Guid(d1fa396eed9bcf142a7ca29b2e80487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd30e97c4a1e4e8c5da96f4ddffebd0f') in 0.007454 seconds 
+  Import took 0.010469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.268955 seconds.
+  path: Assets/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(d1fa396eed9bcf142a7ca29b2e80487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Idle (44x30).png using Guid(d1fa396eed9bcf142a7ca29b2e80487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf87f0d75171b1fc6c8305a0fa71b019') in 0.017192 seconds 
+  Import took 0.020126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.636388 seconds.
+  path: Assets/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(494e128faad97244ab81ff6e4b168e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Hit (44x30).png using Guid(494e128faad97244ab81ff6e4b168e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f590d7f61fa1e73817250ddb14b79b') in 0.008110 seconds 
+  Import took 0.011298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.389212 seconds.
+  path: Assets/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(494e128faad97244ab81ff6e4b168e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Hit (44x30).png using Guid(494e128faad97244ab81ff6e4b168e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b7e23c6cffaff83f832cbab54651882') in 0.015455 seconds 
+  Import took 0.018961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.296706 seconds.
+  path: Assets/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Desappear (44x30).png using Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001b39e0e8cdfe29f71b2da895e52589') in 0.007656 seconds 
+  Import took 0.010551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025092 seconds.
+  path: Assets/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Desappear (44x30).png using Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001b39e0e8cdfe29f71b2da895e52589') in 0.006353 seconds 
+  Import took 0.009566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.274996 seconds.
+  path: Assets/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Desappear (44x30).png using Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9528f9cefbc35c1948d46999b1374c8') in 0.012689 seconds 
+  Import took 0.015755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 403.304010 seconds.
+  path: Assets/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(d1fa396eed9bcf142a7ca29b2e80487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Idle (44x30).png using Guid(d1fa396eed9bcf142a7ca29b2e80487a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23ef1b998c447b62a3b60f4b1dab7c7') in 0.024228 seconds 
+  Import took 0.027518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.143551 seconds.
+  path: Assets/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(494e128faad97244ab81ff6e4b168e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Hit (44x30).png using Guid(494e128faad97244ab81ff6e4b168e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58afcf4e8f0a118af95fd24e7477641f') in 0.011102 seconds 
+  Import took 0.014138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.554320 seconds.
+  path: Assets/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Ghost/Desappear (44x30).png using Guid(57518e82ba8a4d041a10bdee4d07834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8c64adc80ceb88e7125b9eaab3d907') in 0.011496 seconds 
+  Import took 0.014641 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.763 seconds
+Domain Reload Profiling:
+	ReloadAssembly (764ms)
+		BeginReloadAssembly (149ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (569ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (190ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (209ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (144ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.8 MB.
+System memory in use after: 97.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2854.
+Total: 2.772200 ms (FindLiveObjects: 0.230500 ms CreateObjectMapping: 0.058600 ms MarkObjects: 2.468500 ms  DeleteObjects: 0.013900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 102.903569 seconds.
+  path: Assets/素材/New Material.mat
+  artifactKey: Guid(66ba8b3820965a24382488fb91e9c0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/New Material.mat using Guid(66ba8b3820965a24382488fb91e9c0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab25098bb484670c14728d88a7a7f6d2') in 0.060824 seconds 
+  Import took 0.063907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.267742 seconds.
+  path: Assets/素材/遊戲場景.mat
+  artifactKey: Guid(66ba8b3820965a24382488fb91e9c0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/遊戲場景.mat using Guid(66ba8b3820965a24382488fb91e9c0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c627510e78f96c0c89e44f85f886ae') in 0.015652 seconds 
+  Import took 0.019179 seconds .
+
